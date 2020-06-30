@@ -1,0 +1,50 @@
+@import url(bootstrap.css);
+@import url(buttons.css);
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: 'Jost', sans-serif;
+}
+nav{
+    background-color: blue;
+}
+a li{
+    float: left;
+    list-style: none;
+    margin-right: 30px;
+    font-size: 19px;
+    margin-top: 20px;
+    color: black;
+}
+a li:hover{
+    color: gray;
+}
+nav{
+    padding-left: 80px;
+}
+#caption{
+    font-size: 80px;
+    padding-top: 140px;
+    margin-left: 110px;
+    letter-spacing: -3px;
+    line-height: 77px;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    letter-spacing: -5px;
+}
+#less{
+    margin-left: 110px ;
+    font-size: 20px;
+    margin-top: 10px;
+    color: black;
+}
+#skye{
+    font-weight: 600;
+}
+
+#captimg{
+    width: 459px;
+    float: right;
+    margin-top: -500px;
+    margin-right: 80px;
+}

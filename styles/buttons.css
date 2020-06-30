@@ -1,0 +1,52 @@
+/* Navbar getsttarted */
+#navgs {
+    width: 180px;
+    height: 50px;
+    vertical-align: middle;
+    font-size: 19px;
+    border-radius: 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-style: none;
+    transition: ease-in-out 1s;
+}
+
+#navgs:hover {
+    background-color: transparent;
+    border: 3px solid black;
+    color: black;
+}
+/* Get Started */
+#gs{
+    width: 180px;
+    height: 50px;
+    margin-left: 110px;
+    font-size: 19px;
+    border-radius: 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-style: none;
+    transition: ease-in-out 1s;
+}
+#gs:hover{
+    background-color: transparent;
+    border: 3px solid black;
+    color: black;
+}
+/* Our Store */
+#os{
+    width: 180px;
+    height: 50px;
+    border: 3px solid black;
+    color: black;
+    font-size: 19px;
+    border-radius: 50px;
+    background-color:  transparent;  
+    
+    transition: all ease-in-out 1s;
+}
+#os:hover{
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: white;
+}
